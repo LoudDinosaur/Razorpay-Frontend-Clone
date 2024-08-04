@@ -15,5 +15,4 @@ This project is a faithful recreation of the Razorpay website's user interface, 
 ->**CSS3: **For custom styling and layout.
 ->**Tailwind CSS:** For utility-first CSS and responsive design.
 
-**📌 Tech Stack Used**
-HTML  CSS  TailwindCSS
+
