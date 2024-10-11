@@ -12,7 +12,7 @@ This project is a faithful recreation of the Razorpay website's user interface, 
    
 **Technologies Used**
 1. **HTML5:** For the structure and markup of the web pages.
-2. **CSS3:**For custom styling and layout.
+2. **CSS3:** For custom styling and layout.
 3. **Tailwind CSS:** For utility-first CSS and responsive design.
 
 
